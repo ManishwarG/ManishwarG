@@ -9,9 +9,9 @@
 ![conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-143?style=for-the-badge&logo=opencv&logoColor=black&color=black&labelColor=green)
 ![Raspberry](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-143?style=for-the-badge&logo=opencv&logoColor=black&color=black&labelColor=green)
 
 ### Editors:
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
