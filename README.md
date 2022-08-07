@@ -25,7 +25,7 @@
 
 ### Contact:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leela-manishwar-goriparthi/)](https://www.linkedin.com/in/leela-manishwar-goriparthi/)
-![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ManishwarG)](https://github.com/ManishwarG)
 
 ### Workspace:
 ![Graphic Card](https://img.shields.io/badge/NVIDIA-GTX1660Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
