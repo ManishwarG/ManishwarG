@@ -24,14 +24,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Contact:
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:leelamanishwar@outlook.com)](mailto:leelamanishwar@outlook.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leela-manishwar-goriparthi/)](https://www.linkedin.com/in/leela-manishwar-goriparthi/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ManishwarG)](https://github.com/ManishwarG)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:leelamanishwar@outlook.com)](mailto:leelamanishwar@outlook.com)
+
 
 ### Workspace:
-![Graphic Card](https://img.shields.io/badge/NVIDIA-GTX1660Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![CPU](https://img.shields.io/badge/AMD%20Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CPU](https://img.shields.io/badge/AMD%20Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Graphic Card](https://img.shields.io/badge/NVIDIA-GTX1660Ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 
 
 
